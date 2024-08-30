@@ -45,7 +45,7 @@ Al adquirir un kit de robótica obtuvimos una batería de 9V, con la que pudimos
 Se decidió usar único controlador,  el Arduino Mega ya que cuenta con 54 pines de los cuales 16 son analógicos y 12 de señal pwm y es compatible con I2C, lo que permite la conexión de gran cantidad de componentes de ser necesario al igual que una capacidad de procesamiento para codigos grandes y complejos.
 
 ## Sensor de color (TCS34725)
-![Esquema](https://github.com/KarenWon9/WRO-FI-Team-Spark/blob/main/other/apoyo/Esquema%20TCS34725.png)
+![Esquema](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftienda.tettsa.gt%2Fproducto%2Fsensor-de-color-en-modulo-tcs34725%2F&psig=AOvVaw2IBHb6tpG_uXhpMez_rfG5&ust=1725124648201000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMDYkKOcnYgDFQAAAAAdAAAAABAE)
 
 Decidimos usar este sensor ya que cuenta con una fuente de luz, proporciona información sobre el color o luz, en valores alores RGB y Clear (medición total sin filtrar) y cuenta con un filtro de luz infraroja (IR), lo que minimiza la interferencia en la lectura. 
 
